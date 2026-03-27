@@ -1,0 +1,20 @@
+Common queries
+What medications are used for hypertension?
+Latest WHO guidelines for diabetes?
+I have chest pain and sweating
+Compare statins vs lifestyle changes
+What is machine learning?
+What are the symptoms of COVID-19?
+
+Local queries(context-specific, using app features):
+What does this prescription say? (Upload a prescription image in the Prescription Upload tab)
+Are there any interactions between ibuprofen and warfarin? (Use the Drug Interaction Check tab)
+What hospitals are near New York? (Use the Hospital Finder tab)
+Remind me to take my medication at 8 PM. (Use the Medication Reminders tab)
+
+Global queries (general medical knowledge):
+What are the symptoms of hypertension?
+How can I prevent the flu?
+What is the normal blood sugar range?
+What are the side effects of paracetamol?
+
